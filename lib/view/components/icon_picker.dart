@@ -43,7 +43,7 @@ Future<IconData?> iconPicker(BuildContext context) async {
                     },
                     icon: Icon(
                       _listIcons[index],
-                      size: 30,
+                      size: 32,
                       color: Theme.of(context).colorScheme.primary,
                     ),
                   ),
